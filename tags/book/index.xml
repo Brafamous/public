@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book on Home</title>
+    <link>https://github.com/Brafamous/Portfolio_Famous/tags/book/</link>
+    <description>Recent content in book on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://github.com/Brafamous/Portfolio_Famous/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breadboard-Power-Supply-PCB-Design</title>
+      <link>https://github.com/Brafamous/Portfolio_Famous/post/pro1/</link>
+      <pubDate>Sat, 09 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/Brafamous/Portfolio_Famous/post/pro1/</guid>
+      <description>Breadboard-Power-Supply-PCB-Design Welcome to the GitHub repository for my Breadboard Power Supply PCB Design project! This project aims to provide a compact and efficient solution for powering electronic circuits directly on a breadboard. This was design in KiCAD
+Description A power supply unit (PSU) is a device that converts alternating current (AC) power from an electrical outlet into direct current (DC) power suitable for powering electronic devices. The primary function of a power supply unit is to regulate and provide stable and reliable DC voltage and current to the components it serves.</description>
+    </item>
+    
+  </channel>
+</rss>

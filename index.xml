@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Portfolio on Home</title>
+    <link>https://github.com/Brafamous/Portfolio_Famous/</link>
+    <description>Recent content in Personal Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://github.com/Brafamous/Portfolio_Famous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breadboard-Power-Supply-PCB-Design</title>
+      <link>https://github.com/Brafamous/Portfolio_Famous/post/pro1/</link>
+      <pubDate>Sat, 09 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/Brafamous/Portfolio_Famous/post/pro1/</guid>
+      <description>Breadboard-Power-Supply-PCB-Design Welcome to the GitHub repository for my Breadboard Power Supply PCB Design project! This project aims to provide a compact and efficient solution for powering electronic circuits directly on a breadboard. This was design in KiCAD
+Description A power supply unit (PSU) is a device that converts alternating current (AC) power from an electrical outlet into direct current (DC) power suitable for powering electronic devices. The primary function of a power supply unit is to regulate and provide stable and reliable DC voltage and current to the components it serves.</description>
+    </item>
+    
+    <item>
+      <title>Calories-Burnt Prediction : ML Project</title>
+      <link>https://github.com/Brafamous/Portfolio_Famous/post/pro4/</link>
+      <pubDate>Mon, 12 Apr 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://github.com/Brafamous/Portfolio_Famous/post/pro4/</guid>
+      <description>Project Description This is a Machine Learning (ML) project that predicts the amount of calories a user (male or female) burns during exercise. The ML model takes feaures such as the duration of exercise, average heart beat during the exercise, the body temperature, height and weight of the person.
+Introduction Exercise and fitness play a crucial role in maintaining a healthy lifestyle. This project leverages machine learning techniques to predict the calories burned during exercise, which can provide valuable insights for individuals seeking to optimize their workouts and fitness routines.</description>
+    </item>
+    
+    <item>
+      <title>Chapter V: Quasimodo</title>
+      <link>https://github.com/Brafamous/Portfolio_Famous/post/pro5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://github.com/Brafamous/Portfolio_Famous/post/pro5/</guid>
+      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+    </item>
+    
+    <item>
+      <title>Chapter III: Monsieur the Cardinal</title>
+      <link>https://github.com/Brafamous/Portfolio_Famous/post/pro3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://github.com/Brafamous/Portfolio_Famous/post/pro3/</guid>
+      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
+    </item>
+    
+    <item>
+      <title>Chapter II: Pierre Gringoire</title>
+      <link>https://github.com/Brafamous/Portfolio_Famous/post/pro2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/Brafamous/Portfolio_Famous/post/pro2/</guid>
+      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
+“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://github.com/Brafamous/Portfolio_Famous/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Brafamous/Portfolio_Famous/about/</guid>
+      <description>I am currently pursuing a Masters in Biomedical Engineering at the prestigious University of Toronto. With a strong academic background and a fervent interest in the intersection of technology and healthcare, I am committed to driving innovation and progress in the field.
+My journey began with a foundation in Electrical Engineering during my undergraduate studies, where I gained extensive expertise in circuit design and signal processing. This solid grounding has provided me with a unique perspective on the integration of technology into healthcare systems.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/Brafamous/Portfolio_Famous/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Brafamous/Portfolio_Famous/contact/</guid>
+      <description>Follow me on these social media platforms.</description>
+    </item>
+    
+  </channel>
+</rss>
